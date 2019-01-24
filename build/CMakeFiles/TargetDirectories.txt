@@ -1,0 +1,6 @@
+/mnt/hgfs/shareFiles/QuantumMachine/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/shareFiles/QuantumMachine/build/CMakeFiles/Main.dir
+/mnt/hgfs/shareFiles/QuantumMachine/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/shareFiles/QuantumMachine/build/QRunesParser/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/shareFiles/QuantumMachine/build/QRunesParser/CMakeFiles/QRunesParser.dir
+/mnt/hgfs/shareFiles/QuantumMachine/build/QRunesParser/CMakeFiles/edit_cache.dir
